@@ -29,7 +29,8 @@
 ### 📫 Connect with me
 - Email: amal06429@gmail.com
 - GitHub: github.com/Amal06429
-## 🐍 Contribution Graph
+## 🔴 Hacker Activity Trace
 
-![Cyber Snake Dark](https://raw.githubusercontent.com/Amal06429/Amal06429/output/cyber-snake-dark.svg)
+![Hacker Red Snake](https://raw.githubusercontent.com/Amal06429/Amal06429/output/hacker-red-snake.svg)
+
 
