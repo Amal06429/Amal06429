@@ -1,4 +1,4 @@
-name: Generate Cyber Snake
+name: Generate Hacker Red Snake
 
 on:
   schedule:
@@ -9,18 +9,18 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate hacker red snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Amal06429
 
-          # 🎨 UNIQUE CYBER COLORS
-          color_snake: "#00ff9c"        # neon green snake
-          color_dots: "#161b22,#0e4429,#006d32,#26a641,#39d353"
+          # 🔴 HACKER RED THEME
+          color_snake: "#ff0033"
+          color_dots: "#0d1117,#330000,#660000,#990000,#ff0033"
 
           outputs: |
-            dist/cyber-snake.svg
-            dist/cyber-snake-dark.svg
+            dist/hacker-red-snake.svg
+            dist/hacker-red-snake-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
