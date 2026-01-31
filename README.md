@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Amal
 
-<!--
-**Amal06429/Amal06429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cyber Security (VAPT) & Full-Stack Developer  
+💻 Django | DRF | React | PostgreSQL  
+🚀 Passionate about secure & scalable applications
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Backend: Django, DRF, Python
+- Frontend: React, JavaScript
+- Database: PostgreSQL, MySQL
+- Security: VAPT, OWASP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- ✈️ Royal Fly – Full-Stack Flight Management System
+- 📊 Task Prime – Accounting & Inventory System
+
+### 📫 Connect with me
+- Email: amal06429@gmail.com
+- GitHub: github.com/Amal06429
