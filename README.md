@@ -4,11 +4,14 @@
 💻 Django | DRF | React | PostgreSQL  
 🚀 Passionate about secure & scalable applications
 
-### 🔧 Tech Stack
-- Backend: Django, DRF, Python
-- Frontend: React, JavaScript
-- Database: PostgreSQL, MySQL
-- Security: VAPT, OWASP
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
 
 ### 📌 Featured Projects
 - ✈️ Royal Fly – Full-Stack Flight Management System
