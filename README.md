@@ -31,4 +31,5 @@
 - GitHub: github.com/Amal06429
 ## 🐍 Contribution Graph
 
-![Cyber Snake](https://raw.githubusercontent.com/Amal06429/Amal06429/output/cyber-snake.svg)
+![Cyber Snake Dark](https://raw.githubusercontent.com/Amal06429/Amal06429/output/cyber-snake-dark.svg)
+
