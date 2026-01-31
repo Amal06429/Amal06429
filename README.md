@@ -29,7 +29,7 @@
 ### 📫 Connect with me
 - Email: amal06429@gmail.com
 - GitHub: github.com/Amal06429
-## 🔴 Hacker Activity Trace
+
 
 ![Hacker Red Snake](https://raw.githubusercontent.com/Amal06429/Amal06429/output/hacker-red-snake.svg)
 
