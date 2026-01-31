@@ -31,4 +31,4 @@
 - GitHub: github.com/Amal06429
 ## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/Amal06429/Amal06429/output/github-contribution-grid-snake.svg)
+![Cyber Snake](https://raw.githubusercontent.com/Amal06429/Amal06429/output/cyber-snake.svg)
