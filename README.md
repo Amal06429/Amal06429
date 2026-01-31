@@ -13,7 +13,7 @@
 </p>
 
 #### 🔐 Cyber Security & Automation
-p align="left">
+
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white"/>
