@@ -22,9 +22,7 @@
   <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
-### 📌 Featured Projects
-- ✈️ Royal Fly – Full-Stack Flight Management System
-- 📊 Task Prime – Accounting & Inventory System
+
 
 ### 📫 Connect with me
 - Email: amal06429@gmail.com
